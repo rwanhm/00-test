@@ -1,1 +1,3 @@
-Git is free software.
+Git really is free software.
+
+readme.txt has been changed.
